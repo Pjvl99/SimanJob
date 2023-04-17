@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_dH8PENSwEe2WQ8sksDDwnA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_h9lvYNSwEe2WQ8sksDDwnA" comment="" name="pathOutput" prompt="pathOutput?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;/home/pablo/scrapy/out.csv&quot;"/>
+</talendfile:ContextType>
