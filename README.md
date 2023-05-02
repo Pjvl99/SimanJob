@@ -48,6 +48,8 @@
 
 ![Screenshot from 2023-04-08 15-56-02](https://user-images.githubusercontent.com/61527863/235328904-06e868e6-e766-474b-acf9-d19193f8502c.png)
 
+  - Las visualizaciones fueron hechas utilizando tableau. Aquí hay unos screenshots de ejemplo:
+  
+  ![Screenshot from 2023-05-01 18-27-43](https://user-images.githubusercontent.com/61527863/235554704-26ba30c8-db15-4d17-992b-bd1934253a80.png)
 
-
-
+![Screenshot from 2023-05-01 18-27-58](https://user-images.githubusercontent.com/61527863/235554734-dce3f890-61eb-40e3-a82e-daad9d228228.png)
