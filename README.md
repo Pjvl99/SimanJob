@@ -1,6 +1,6 @@
 # SimanJob
 
-- El proyecto consiste en un ETL de los datos de la tienda siman.
+- El proyecto consiste en un ETL de los datos de la tienda siman (https://gt.siman.com/).
 
 - Para ejecutar el proyecto debes tener instalada la libreria scrapy de python, selenium y talend open studio, estos son los pasos para ejecutar el proyecto:
 
